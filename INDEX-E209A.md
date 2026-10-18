@@ -1,0 +1,61 @@
+# E209A: source-image index
+
+55 title-page images. All titles and metadata remain provisional.
+
+| Page | Proposed title | Transcription | Public source |
+|---:|---|---|---|
+| 1242 | PARAMETRIC STUDY OF THE SEPARATION DISTANCE AND VELOCITY BETWEEN A SPACECRAFT AND AN EJECTED OBJECT | [OCR](E209A-1.md#page-001242) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1.tif.png) |
+| 1243 | REVIEW OF MERCURY LAUNCH ABORT SYSTEM EXPERIENCE AND APPLICATION TO THE DESIGN OF ADVANCED CREW SAFETY SYSTEMS | [OCR](E209A-1.md#page-001243) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_001.tif.png) |
+| 1244 | SPACE STATION REACTION CONTROL AND ORBIT MAINTENANCE REQUIREMENTS | [OCR](E209A-1.md#page-001244) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_002.tif.png) |
+| 1245 | RESEARCH AND APPLICATIONS FORA 4 MANNED ORBITAL LABORATORY | [OCR](E209A-1.md#page-001245) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_003.tif.png) |
+| 1246 | (ENGINEERING DEVELOPMENT AND PILOT FAMILIARIZATION) | [OCR](E209A-1.md#page-001246) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_004.tif.png) |
+| 1247 | A METEOROID ENVIRONMENT FOR NEAR-EARTH, CISLUNAR, AND NEAR-LUNAR OPERATIONS | [OCR](E209A-1.md#page-001247) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_005.tif.png) |
+| 1248 | DIRECTORY OF STATION LOCATIONS FOR USE IN GEMINI AND APOLLO PLANNING STUDIES | [OCR](E209A-1.md#page-001248) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_006.tif.png) |
+| 1249 | DI RECTORY OF STATION LOCATIONS FOR USE IN GEMINI AND APOLLO PLANNING STUDIES | [OCR](E209A-1.md#page-001249) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_007.tif.png) |
+| 1250 | DIRECTORY OF STANDARD GEODETIC AND GEOPHYSICAL CONSTANTS FOR GEMINI AND APOLLO | [OCR](E209A-1.md#page-001250) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_008.tif.png) |
+| 1251 | RESULTS OF THE APOLLO 1 CENTRIFUGE PROGRAM (ENGINEERING DEVELOPMENT AND PILOT FAMILIARIZATION) | [OCR](E209A-1.md#page-001251) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_009.tif.png) |
+| 1252 | THERMAL CONTROL CONSIDERATIONS FOR A MANNED EARTH ORBITING SPACE STATION | [OCR](E209A-1.md#page-001252) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_010.tif.png) |
+| 1253 | RESULTS OF THE GEMINI I CENTRIFUGE PROGRAM | [OCR](E209A-1.md#page-001253) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_011.tif.png) |
+| 1254 | CONTROL CENTER REQUIREMENTS | [OCR](E209A-1.md#page-001254) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_012.tif.png) |
+| 1255 | TRANSFORMATIONS FROM IMPACT PREDICTOR COORDINATES (IP DATA) TO SPECIAL LAUNCH TRAJECTORY PARAMETERS FOR USE IN QUICK-LOOK POSTFLIGHT MISSION ANALYSIS | [OCR](E209A-1.md#page-001255) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_013.tif.png) |
+| 1256 | SELECTION OF A POWER SYSTEM FOR A LARGE SPACE STATION | [OCR](E209A-1.md#page-001256) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-1/E209A-1_014.tif.png) |
+| 1257 | REQUIREMENTS FOR AN AUTOMATED DATA STORAGE AND RETRIEVAL SYSTEM | [OCR](E209A-2.md#page-001257) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2.tif.png) |
+| 1258 | REPORT OF A STUDY OF A LOW LIFT-TO-DRAG RATIO, HYPERVELOCITY ENTRY INTO THE EARTH'S ATMOSPHERE USING A CONSTANT ALTITUDE BRAKING MANEUVER | [OCR](E209A-2.md#page-001258) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_001.tif.png) |
+| 1259 | APOLLO SCIENTIFIC EQUIPMENT - . | [OCR](E209A-2.md#page-001259) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_002.tif.png) |
+| 1260 | (PILOT REVIEW AND FAMILIARIZATION) | [OCR](E209A-2.md#page-001260) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_003.tif.png) |
+| 1261 | CONSIDERATIONS TOWARD THE SELECTION — | [OCR](E209A-2.md#page-001261) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_004.tif.png) |
+| 1262 | A PRELIMINARY TRAJECTORY STUDY FOR LAUNCH FROM THE MARTIAN SURFACE INTO ORBITS ABOUT THE PLANET | [OCR](E209A-2.md#page-001262) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_005.tif.png) |
+| 1263 | A TWO-DIMENSIONAL DIGITAL COMPUTER PROGRAM FOR CALCULATION OF OPTIMUM TRAJECTORIES FROM LAUNCH TO INJECTION | [OCR](E209A-2.md#page-001263) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_006.tif.png) |
+| 1264 | THE DEVELOPMENT AND QUALIFICATION TESTING OF A LIGHTWEIGHT NET COUCH AND RESTRAINT SYSTEM FOR USE IN THE MERCURY SPACECRAFT | [OCR](E209A-2.md#page-001264) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_007.tif.png) |
+| 1265 | ROCKET IMPULSE REQUIREMENTS TO ACHIEVE A 300 NAUTICAL MILE ORBIT ABOUT THE PLANET MARS USING ATMOSPHERIC BRAKING BY A CONSTANT ALTITUDE FLIGHT | [OCR](E209A-2.md#page-001265) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_008.tif.png) |
+| 1266 | SOME DECELERATION TRANSMISSION CHARACTERISTICS OF NYLON AND DACRON RASCHEL NETTING AND SOMYK LOOP FABRIC UNDER IMPACT DECELERATION, AT IMPACT VELOCITIES OF 13.9 AND 30 FEET PER SECOND | [OCR](E209A-2.md#page-001266) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_009.tif.png) |
+| 1267 | SUMMARY OF IMPACT DATA ON MERCURY SPACECRAFT | [OCR](E209A-2.md#page-001267) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_010.tif.png) |
+| 1268 | USE OF PARAMETRIC EQUATIONS TO OPTIMIZE A LANDING ROCKET AND SUBSEQUENT MODEL TESTING | [OCR](E209A-2.md#page-001268) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_011.tif.png) |
+| 1269 | this date | [OCR](E209A-2.md#page-001269) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_012.tif.png) |
+| 1270 | MANNED SPACECRAFT COSTING TECHNIQUE (MASCOT) | [OCR](E209A-2.md#page-001270) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_013.tif.png) |
+| 1271 | EXPERIMENTAL ABLATION DATA OBTAINED FROM MSC ONE MEGAWATT ARC JET TESTS ON THE STANFORD RESEARCH INSTITUTE - | [OCR](E209A-2.md#page-001271) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_014.tif.png) |
+| 1272 | INVESTIGATION OF THE VISUAL REFERENCE REQUIREMENTS FOR PILOT CONTROL OF GLIDNG PARACHUTES FOR LAND LANDING OF SPACECRAFT | [OCR](E209A-2.md#page-001272) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_015.tif.png) |
+| 1273 | A COMPILATION AND DISCUSSION OF DATA PERTAINING TO THE THERMAL INFLUENCE OF THE MOON ON A SPACE VEHICLE | [OCR](E209A-2.md#page-001273) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_016.tif.png) |
+| 1274 | AN ANALYSIS OF A CHARRING ABLATION THERMAL PROTECTION SYSTEM | [OCR](E209A-2.md#page-001274) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_017.tif.png) |
+| 1275 | LUNAR EPHEMERIS AND SELENOGRAPHIC COORDINATES OF THE EARTH AND SUN FOR 1966 | [OCR](E209A-2.md#page-001275) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_018.tif.png) |
+| 1276 | LUNAR EPHEMERIS AND SELENOGRAPHIC COORDINATES OF THE EARTH AND SUN FOR 1967 | [OCR](E209A-2.md#page-001276) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-2/E209A-2_019.tif.png) |
+| 1277 | LUNAR EPHEMERIS AND SELENOGRAPHIC COORDINATES OF THE EARTH AND SUN FOR 1968 | [OCR](E209A-3.md#page-001277) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3.tif.png) |
+| 1278 | LUNAR EPHEMERIS AND SELENOGRAPHIC COORDINATES OF THE EARTH AND SUN FOR 1969 | [OCR](E209A-3.md#page-001278) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_001.tif.png) |
+| 1279 | LUNAR EPHEMERIS AND SELENOGRAPHIC COORDINATES OF THE EARTH AND SUN FOR 1970 | [OCR](E209A-3.md#page-001279) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_002.tif.png) |
+| 1280 | APOLLO-X RADIATION HAZARD ANALYSIS | [OCR](E209A-3.md#page-001280) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_003.tif.png) |
+| 1281 | SELECTION OF SPARES OR REDUNDANT. COMPONENTS TO MAXIMIZE RELIABILITY FOR A GIVEN WEIGHT ALLOTMENT | [OCR](E209A-3.md#page-001281) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_004.tif.png) |
+| 1282 | COMPUTER PROGRAM TO PREDICT THE NEWTONIAN AERODYNAMICS OF GENERAL BODIES APPROXIMATED BY FLAT PLATES | [OCR](E209A-3.md#page-001282) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_005.tif.png) |
+| 1283 | A PERFORMANCE STUDY OF THE APOLLO SPACECRAFT CONFIGURATION ENTER-NG THE EARTH'S ATMOSPHERE AT HYPERBOLIC SPEEDS | [OCR](E209A-3.md#page-001283) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_006.tif.png) |
+| 1284 | otras N AND REFERENCING | [OCR](E209A-3.md#page-001284) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_007.tif.png) |
+| 1285 | SELECTION AND CHARACTERISTICS OF THE RADIOISOTOPE POLONIUM-210 AS AN ELECTRICAL POWER SYSTEM HEAT SOURCE FOR APOLLO EXTENSION SYSTEMS MISSIONS | [OCR](E209A-3.md#page-001285) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_008.tif.png) |
+| 1286 | POLYVINYL CHLORIDE QUALIFICATION TEST PROGRAM DEVELOPMENT AND RESULTS | [OCR](E209A-3.md#page-001286) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_009.tif.png) |
+| 1287 | FIRE PREVENTION IN MANNED SPACECRAFT AND TEST CHAMBER OXYGEN ATMOSPHERES | [OCR](E209A-3.md#page-001287) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_010.tif.png) |
+| 1288 | POLONIUM-210 AND PLUTONIUM- 238 RADIOISOTOPE SHIELDING FOR POST-APOLLO MISSIONS | [OCR](E209A-3.md#page-001288) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_011.tif.png) |
+| 1289 | EXPERIMENTS REQUIREMENTS | [OCR](E209A-3.md#page-001289) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_012.tif.png) |
+| 1290 | SPACE STATION ELECTRICAL POWER SYSTEMS STUDY | [OCR](E209A-3.md#page-001290) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_013.tif.png) |
+| 1291 | PLANNED INTERDEPENDENCY INCENTIVE METHOD | [OCR](E209A-3.md#page-001291) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_014.tif.png) |
+| 1292 | MANNED SPACECRAFT COSTING TECHNIQUE (MASCOT V) | [OCR](E209A-3.md#page-001292) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_015.tif.png) |
+| 1293 | “ry HOUSTON, TEXAS | [OCR](E209A-3.md#page-001293) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_016.tif.png) |
+| 1294 | ENVIRONMENTAL THERMAL CONTROL AND LIFE SUPPORT SYSTEMS DEFINITION FOR THE SHORT-TERM AND LONG- TERM EARTH RESOURCES EXPERIMENT CARRIERS | [OCR](E209A-3.md#page-001294) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_017.tif.png) |
+| 1295 | OPERATIONAL ASPECTS OF SIMULATING WEIGHT LESSNESS BY USE OF THE WATER IMMERSION TECHNIQUE | [OCR](E209A-3.md#page-001295) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_018.tif.png) |
+| 1296 | INVESTIGATION OF SYSTEMS FOR PRODUCING A STANDING WAVE IN A RECTANGULAR TEST TANK | [OCR](E209A-3.md#page-001296) | [image](https://www.ibiblio.org/apollo/NARASWoverflow/TitlePageScans/E209A-3/E209A-3_019.tif.png) |

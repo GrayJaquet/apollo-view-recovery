@@ -1,0 +1,25 @@
+{
+  "generated_at": "2026-10-18T22:12:53.410024+00:00",
+  "source_images": 3014,
+  "transcriptions": 3014,
+  "historical_boxes": 220,
+  "collections": {
+    "E156N": 1,
+    "E157G": 935,
+    "E158": 51,
+    "E209": 254,
+    "E209A": 55,
+    "E209B": 302,
+    "E209D": 40,
+    "E209H": 1376
+  },
+  "known_incomplete_transcriptions": [
+    969,
+    1155
+  ],
+  "all_source_urls_match_master": true,
+  "all_transcriptions_match_master": true,
+  "all_browse_links_valid": true,
+  "metadata_accuracy_verified": false,
+  "passed": true
+}
