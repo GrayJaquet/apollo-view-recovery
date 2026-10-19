@@ -6,6 +6,7 @@ An open research project to recover the original Apollo-era VIEW visualization p
 
 ## Start here
 
+- [Naming and additional records: 18 October 2026](VIEW-RESEARCH-2026-10-18.md): alternate descriptions, Roush star-plotter evidence, seven additional index leads, and corrections to research priorities.
 - [Research findings](view_research_findings.md): verified technical anchors, people, historical context, and unresolved connections.
 - [Top 50 archival candidates](top_50_view_candidates.md): ranked leads with evidence classes and original image links.
 - [Potential archival requests](potential_archival_requests.md): priorities after excluding verified public copies.

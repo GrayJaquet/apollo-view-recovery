@@ -1147,8 +1147,8 @@
     },
     {
       "path": "README.md",
-      "bytes": 4601,
-      "sha256": "13002f0692b317f837f00ff44325351bbb8ad5c308ae3c29b6a2d4270e6a5b02"
+      "bytes": 4805,
+      "sha256": "1b7a46cf7b75611e366d425e1f4f71ea428cc46a616bd4d8db4fa54c3e17354c"
     },
     {
       "path": "RECOVERY-ROADMAP.md",
@@ -1178,12 +1178,17 @@
     {
       "path": "validation.json",
       "bytes": 532,
-      "sha256": "e77be1af51e4758ac923b875395012f74bccc63388be29b319c27d9b0a7fde1d"
+      "sha256": "e7e95191cbb82336b224a2cc4ece55dc93f68718e5b0c4a5d0a99c2b9237e1f7"
     },
     {
       "path": "verified_public_full_text.md",
       "bytes": 4501,
       "sha256": "d75e8882035744921d27da74ddcf658fa6b878706ead649e6871e133f239ce8a"
+    },
+    {
+      "path": "VIEW-RESEARCH-2026-10-18.md",
+      "bytes": 8233,
+      "sha256": "457512eabda283658af2dc1c74ed1c80f11819c25390c645dc4105a63a46f39b"
     },
     {
       "path": "view_research_findings.md",
